@@ -87,7 +87,13 @@ __double underscores__
 
 Use the `printf()` function.
 
-![Alt text](/path/to/img.jpg)
+![Alt text](http://7u2oul.com1.z0.glb.clouddn.com/bb_icon@3x.png-blog)
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 
 #Reference

@@ -316,7 +316,7 @@ No styleguide reference.
 */
 table {
   border-collapse: collapse;
-  border-spacing: 0;
+  border-spacing: 1;
 }
 td {
   vertical-align: top;
@@ -1482,3 +1482,11 @@ hr {
   *display: inline;
   float: right;
 }
+
+table {
+  font-size:inherit;
+  font:100%;
+  margin:1em;
+}
+table th{border-bottom:1px solid #bbb;padding:.2em 1em;}
+table td{border-bottom:1px solid #ddd;padding:.2em 1em;}
