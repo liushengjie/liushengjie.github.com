@@ -21,12 +21,11 @@
 				<nav class="nav-global">
 					<ul>
 						<li class="logo"><a href="/">{{ site.title }}</a></li>
-						<li class="archive"><a href="/archive.html">archive</a></li>
-						<li class="page"><a href="/pages.html">pages</a></li>
-						<li class="category"><a href="/categories.html">categories</a></li>
-						<li class="tag"><a href="/tags.html">tags</a></li>
-						<li class="forkme"><div><iframe src="http://markdotto.github.com/github-buttons/github-btn.html?user=plusjade&repo=jekyll-bootstrap&type=fork&count=true"
-									allowtransparency="true" frameborder="0" scrolling="0" width="95px" height="20px"></iframe></div></li>
+						<li class="index"><a href="/index.html">主页</a></li>
+						<li class="archive"><a href="/archive.html">归档</a></li>
+						<li class="link"><a href="/link.html">链接</a></li>
+						<li class="category"><a href="/categories.html">分类</a></li>
+						<li class="tag"><a href="/tags.html">标签</a></li>
 					</ul>
 				</nav>
 			</div><!-- unit-inner -->
@@ -45,17 +44,21 @@
 		<div class="unit-foot">
 			<div class="unit-inner unit-foot-inner">
 				<div class="misc vcard">
-					<h4>about</h4>
+					<h4>关于</h4><small>
 					<ul>
-						<li class="contact"><address><span class="author fn n">{{ site.author.name }}</span> - <span class="fn email">{{ site.author.email }}</span></address></li>
-						<li class="github"><a href="http://github.com/{{ site.author.github }}/" rel="me">github.com/{{ site.author.github }}</a></li>
-						<li class="twitter"><a href="http://twitter.com/{{ site.author.twitter }}/" rel="me">twitter.com/{{ site.author.twitter }}</a></li>
-						<li class="rss"><a href="http://feeds.feedburner.com/{{ site.author.feedname }}">Subscribe to RSS Feed</a></li>
+						<li class="contact"><address><span class="author fn n">{{ site.author.name }} </br>&nbsp;&nbsp;86后新一代程序员，爱阅读，爱思考，爱分享，爱那么一点点小<a href="http://baike.baidu.com/link?url=SexjIKz75bfC5Za6SeuvnvmVb3-O3SCb5iYXOiL2hxxNwcP0RELkgvNeH3I2FGn0nkfyJNfvnb_XlOYldRAoSa">逼格</a>。
+						<ul>
+							<li>09年--10年 从事相关ERP系统，使用delphi+sqlserver(无法回忆的年代)</li>
+							<li>10年--至今  进入通信行业，接触过一些BOSS业务，使用Java作为开发主语言，SSH or SSI框架，ORACLE or MySQL数据库等；后对前端颇感兴趣，So接触了一些HTML、JS、CSS相关知识，自然而然开始对Jquery、Bootstrap等框架渐渐着迷；随着对JS的不断深入，便对Node.js有了点点兴趣，面对Node.js，又不得不对MongoDB and redis产生了感情；纵观大局，随着移动开发的兴起，业余时间对Android和IOS开发做了些许实践；But目前深深着迷Python这令人销魂的语言。(ps:听说Ruby更为销魂，这些留给以后研究吧)</li>
+						</ul>
+						</span></address></li>
+						<li class="github"><a href="http://github.com/{{ site.author.github }}/" rel="me">Github</a></li>
+						<li class="rss"><a href="http://feeds.feedburner.com/{{ site.author.feedname }}">订阅</a></li>
 					</ul>
+					</small>
 				</div><!-- misc -->
 				<p class="licence">
-					Theme: <a href="http://layouts-the.me">the_minimum</a> based on <a href="http://jekyllbootstrap.com/">Jekyll-bootstrap</a>.<br>
-					Powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a>.
+					<p><small><a href="https://github.com/liushengjie/liushengjie.github.com">Designed</a> by <a href="http://liushengjie.github.io/">Owl Liu</a> | Theme <a href="">the-program</a> | Powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a>, <a href="https://github.com/plusjade/jekyll-bootstrap/">jekyll-bootstrap</a>, <a href="http://twitter.github.com/bootstrap/">Bootstrap</a> and <a href="http://pages.github.com/">GitHub Pages</a> | 版权声明：<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/cn/">CC BY-NC-SA 3.0</a> | <span class="label label-success">{{site.time | date:"%Y-%m-%d"}}</span></small></p>
 				</p>
 			</div><!-- unit-foot-inner -->
 		</div><!-- unit-foot -->
