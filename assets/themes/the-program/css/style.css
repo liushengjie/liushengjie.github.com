@@ -136,6 +136,11 @@ samp {
   font-size: 1em;
 }
 /* Improve readability of pre-formatted text in all browsers */
+.meta {
+  font-family: monospace, serif;
+  _font-family: 'courier new', monospace;
+  font-size: 0.75em;
+}
 pre {
   white-space: pre;
   white-space: pre-wrap;
