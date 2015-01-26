@@ -14,3 +14,4 @@ tagline: "生命不息，编码不止"
 | 啄木鸟     | [http://wiki.woodpecker.org.cn](http://wiki.woodpecker.org.cn) |
 | 王垠       | [http://www.yinwang.org/#](http://www.yinwang.org/#)|
 | 酷壳       | [http://coolshell.cn/](http://coolshell.cn/)|
+| 廖雪峰 ` Blog| [http://www.liaoxuefeng.com/](http://www.liaoxuefeng.com/) |
