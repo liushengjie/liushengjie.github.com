@@ -16,3 +16,10 @@ tagline: "生命不息，编码不止"
 | 酷壳       | [http://coolshell.cn/](http://coolshell.cn/)|
 | 廖雪峰 ` Blog| [http://www.liaoxuefeng.com/](http://www.liaoxuefeng.com/) |
 | 目光 ` Blog| [http://eyehere.net/](http://eyehere.net/)|
+
+
+####好文收藏
+
+| 名称| 地址 |
+| --- |---- |
+| crontab命令 | [http://www.cnblogs.com/peida/archive/2013/01/08/2850483.html](http://www.cnblogs.com/peida/archive/2013/01/08/2850483.html)|
