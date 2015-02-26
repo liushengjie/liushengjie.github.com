@@ -10,12 +10,13 @@ tagline: "生命不息，编码不止"
 | ------------  |:-------------:|
 | 简书           | [http://www.jianshu.com/](http://www.jianshu.com/)  |
 | 知乎           | [http://www.zhihu.com](http://www.zhihu.com)|
-| dylanninin ` Blog| [http://dylanninin.com/](http://dylanninin.com/)|
+| dylanninin Blog| [http://dylanninin.com/](http://dylanninin.com/)|
 | 啄木鸟     | [http://wiki.woodpecker.org.cn](http://wiki.woodpecker.org.cn) |
 | 王垠       | [http://www.yinwang.org/#](http://www.yinwang.org/#)|
 | 酷壳       | [http://coolshell.cn/](http://coolshell.cn/)|
-| 廖雪峰 ` Blog| [http://www.liaoxuefeng.com/](http://www.liaoxuefeng.com/) |
-| 目光 ` Blog| [http://eyehere.net/](http://eyehere.net/)|
+| 廖雪峰 Blog| [http://www.liaoxuefeng.com/](http://www.liaoxuefeng.com/) |
+| 目光 Blog| [http://eyehere.net/](http://eyehere.net/)|
+| vimer    | [http://www.vimer.cn/](http://www.vimer.cn/)|
 
 
 ####好文收藏
